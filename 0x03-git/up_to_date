@@ -3,3 +3,4 @@ git push
 git commit -m
 git branch
 git  switch
+git pull
